@@ -1,5 +1,6 @@
 # checkers-minmax
 -------------------------------
-Uses red-utility(Python file) to decide the adversary's(here, the red piece) play.
+Minmax along with Alpha-beta pruning is used to decide the adversary's(here, red piece) play.
 
-Download checkers.py and red_utility.py to the same directory, and run checkers.py to play!
+Instructions:
+  Download checkers.py and red_utility.py to the same directory, and run checkers.py to play!
